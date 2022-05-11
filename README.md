@@ -1,4 +1,4 @@
-Network technologis university course.
+#Network technologis university course.
 
 l2 - creating model of computer network and testing its reliability.
 
